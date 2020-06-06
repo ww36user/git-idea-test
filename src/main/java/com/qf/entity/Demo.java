@@ -5,6 +5,6 @@ package com.qf.entity;
  * @createTime 2020-06-06 14:49
  */
 public class Demo {
-
+    private Integer id;
 
 }
